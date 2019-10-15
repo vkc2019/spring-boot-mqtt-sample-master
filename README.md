@@ -66,3 +66,5 @@ Returns message array after 5 seconds:
 	}
 
 > pm2 start process.json
+
+> original project : https://github.com/gulteking/spring-boot-mqtt-sample
